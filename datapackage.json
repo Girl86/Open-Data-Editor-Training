@@ -1,0 +1,88 @@
+{
+  "resources": [
+    {
+      "name": "example_dataset_06-05-2020",
+      "type": "table",
+      "title": "",
+      "description": "",
+      "licenses": [],
+      "path": "Example_dataset_06-05-2020.xlsx",
+      "scheme": "file",
+      "format": "xlsx",
+      "mediatype": "application/vnd.ms-excel",
+      "encoding": "utf-8",
+      "hash": "",
+      "fields": 0,
+      "rows": 0,
+      "schema": {
+        "title": "",
+        "description": "",
+        "fields": [
+          {
+            "name": "OFFICE OF THE ACCOUNTANT-GENERAL OF THE FEDERATION",
+            "type": "string",
+            "title": "",
+            "description": "",
+            "constraints": {
+              "required": false
+            },
+            "rdfType": ""
+          },
+          {
+            "name": "field2",
+            "type": "any",
+            "title": "",
+            "description": "",
+            "constraints": {
+              "required": false
+            },
+            "rdfType": ""
+          },
+          {
+            "name": "field3",
+            "type": "any",
+            "title": "",
+            "description": "",
+            "constraints": {
+              "required": false
+            },
+            "rdfType": ""
+          },
+          {
+            "name": "field4",
+            "type": "string",
+            "title": "",
+            "description": "",
+            "constraints": {
+              "required": false
+            },
+            "rdfType": ""
+          },
+          {
+            "name": "field5",
+            "type": "yearmonth",
+            "title": "",
+            "description": "",
+            "constraints": {
+              "required": false
+            },
+            "rdfType": ""
+          },
+          {
+            "name": "field6",
+            "type": "yearmonth",
+            "title": "",
+            "description": "",
+            "constraints": {
+              "required": false
+            },
+            "rdfType": ""
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ]
+}
